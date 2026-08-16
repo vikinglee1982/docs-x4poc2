@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-38h19c.kujang138.shop/sitemap.xml
